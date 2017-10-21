@@ -42,3 +42,11 @@ Type this command inside your terminal
 cd ~/your-local-project
 php -S localhost:3000
 ```
+
+Found the issue please go to this [link](https://github.com/frayhan32/PPH-21/issues)
+
+
+
+
+
+
